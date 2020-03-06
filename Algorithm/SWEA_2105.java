@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 /**
  * 
+ * 
  * @author sin-yujin
  * 1. 매 칸에서 시작하되, 범위를 벗어나면 종료 
  * 2. 방향을 바꾸면 한 모서리가 끝난 것!! 
